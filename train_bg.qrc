@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="train">
+    <file>start_page.png</file>
+    <file>train.gif</file>
+  </qresource>
+</RCC>

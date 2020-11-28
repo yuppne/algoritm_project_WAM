@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="subwaymap">
+    <file>snowman.png</file>
+    <file>cabin.png</file>
+    <file>subwaymap.png</file>
+    <file>snow.png</file>
+  </qresource>
+  <qresource prefix="home">
+    <file>cabin.png</file>
+  </qresource>
+</RCC>
